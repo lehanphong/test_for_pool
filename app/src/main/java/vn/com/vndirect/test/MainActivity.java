@@ -9,6 +9,8 @@ import android.view.View;
 import vn.com.vndirect.test.databinding.ActivityMainBinding;
 
 /**
+ * clip demo: https://photos.app.goo.gl/fmwVTBHdhVuE7Cw36
+ *
  * BT1: khi nhập $tên vào ô edittext và click vào button Go!
  * -> mở màn tiếp theo và hiển thị "hello $tên" (như clip demo)
  *
